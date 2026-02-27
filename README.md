@@ -20,5 +20,4 @@ I’m continuously improving my skills in **Data Analysis, Python, SQL, and Powe
 📧 brunotubinofranco@gmail.com  
 
 ⚡ **Fun fact:**  
-I started my career in graphic design and discovered that what truly excited me wasn’t just the visuals — it was the data behind the results.  
-Today, I combine creativity and analytics to turn data into meaningful insights.
+I started my career in graphic design and discovered that what truly excited me wasn’t just the visuals — it was the data behind the results. Today, I combine creativity and analytics to turn data into meaningful insights.
