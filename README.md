@@ -31,7 +31,7 @@ Desenvolvimento de queries SQL para extração, transformação e análise de da
 ## 💻 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,oracle,postgres,mssql,github" />
 </p>
 
 <p align="left">
