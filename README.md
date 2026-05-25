@@ -17,7 +17,7 @@ Dashboard desenvolvido no Power BI para identificar os principais fatores que in
 🔹 **Automação de Relatórios Operacionais**  
 Desenvolvimento de scripts em Python para automatizar processos repetitivos e geração de relatórios operacionais.  
 
-🔹 Dashboards de Monitoramento de KPIs**  
+🔹 **Dashboards de Monitoramento de KPIs**  
 Criação e manutenção de dashboards em Google Sheets e ferramentas de BI para acompanhamento de performance e indicadores estratégicos.  
 
 🔹 **Estruturação e Tratamento de Dados**  
