@@ -31,7 +31,15 @@ Desenvolvimento de queries SQL para extração, transformação e análise de da
 ## 💻 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,oracle,postgres,mssql,github" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 <p align="left">
