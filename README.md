@@ -8,7 +8,7 @@ Possuo experiência com análise de dados, desenvolvimento de consultas SQL, aut
 
 ## 🚀 Projetos e atividades em que trabalhei
 
-🔹 **[Projeto: Autodocumentação de arquivos .pbix (Power BI)](https://github.com/frncbruno/autodoc-powerbi)**
+🔹 **[Projeto: Autodocumentação de arquivos .pbix (Power BI)](https://github.com/frncbruno/autodoc-powerbi)**  
 Automatize a documentação técnica dos seus projetos Power BI em poucos segundos.  
 🚀 Mais de 95% de redução no tempo gasto com documentação.
 
