@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação e atuo na equipe de Dados da Brasil TecPar, trabalhando com análise operacional, automação de processos e monitoramento de indicadores de performance.  
 
-Possuo experiência com análise de dados, desenvolvimento de consultas SQL, automações em Python e criação de dashboards para acompanhamento de KPIs e otimização de processos.
+Possuo experiência com análise de dados, desenvolvimento de consultas SQL, automações em Python, Excel/Google Sheets e criação de dashboards para acompanhamento de KPIs e otimização de processos.
 
 ---
 
