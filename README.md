@@ -1,4 +1,4 @@
-# Hey there, I'm Bruno! 👋  
+# Prazer, Bruno! 👋  
 
 Sou estudante de Ciência da Computação e atuo na equipe de Dados da Brasil TecPar, trabalhando com análise operacional, automação de processos e monitoramento de indicadores de performance.  
 
